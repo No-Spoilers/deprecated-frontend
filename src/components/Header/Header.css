@@ -1,0 +1,16 @@
+.header-div {
+    display: block;
+}
+
+.left-span {
+    color: black;
+    padding: 1rem;
+    background-color: greenyellow;
+}
+
+.right-span {
+    color: black;
+    padding: 1rem;
+    background-color: red;
+}
+
